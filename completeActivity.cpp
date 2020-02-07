@@ -1,6 +1,6 @@
 //  ActivityTracker
 //  completeActivity.cpp
-//  Copyright © 2019 Robert Watson. All rights reserved.
+//  Copyright © 2019-2020 Robert Watson. All rights reserved.
 
 #include "completeActivity.hpp"
 
@@ -24,5 +24,3 @@ bool completeActivity::parseTime(std::string timeStr) {
     }
     return m_time_is_valid;
 }
-
-

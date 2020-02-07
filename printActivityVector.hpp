@@ -1,6 +1,6 @@
 //  ActivityTracker
 //  printActivityVector.hpp
-//  Copyright © 2019 Robert Watson. All rights reserved.
+//  Copyright © 2019-2020 Robert Watson. All rights reserved.
 
 #ifndef printWalkVector_hpp
 #define printWalkVector_hpp
@@ -13,4 +13,3 @@
 void printActivityVector(const std::vector<completeActivity> & printThisVec);
 
 #endif /* printWalkVector_hpp */
-
